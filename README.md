@@ -1,4 +1,4 @@
-# 피지컬:로그 (Physical:Log) – 유사군 비교 기반 점진 코칭 & 게이미피케이션 헬스케어 플랫폼  
+# 피지컬:로그 – 머신러닝 기반 점진 코칭 & 게이미피케이션 헬스케어 플랫폼  
 
 <p align="center">
   <img src="Images/찐막_로고.png" alt="Physical:Log Banner" width="150"/>
@@ -101,7 +101,7 @@
 
 ## 핵심 기여
 - 국민건강영양조사(KNHANES) 데이터를 기반으로 **전처리 및 EDA 수행**
-- **머신러닝(HistGradientBoostingClassifier)를** 활용한 질환 예측 모델 설계 및 **KMeans 기반** 건강 유형 군집화
+- **머신러닝(HistGradientBoostingClassifier)을** 활용한 질환 예측 모델 설계 및 **KMeans 기반** 건강 유형 군집화
 - 데이터 불균형 보정과 Feature Selection으로 **모델 성능 개선 (AUC 0.85~0.91 달성)**
 - 질병 예측·생활습관·실천율을 통합한 **건강 점수화 알고리즘 설계 및 구현**
 ***
