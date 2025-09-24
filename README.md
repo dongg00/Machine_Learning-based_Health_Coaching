@@ -106,15 +106,13 @@
 - 질병 예측·생활습관·실천율을 통합한 **건강 점수화 알고리즘 설계 및 구현**
 ***
 
-## 폴더 구조 (예시)
+## 폴더 구조 (주요)
 <pre>
-📂 PhysicalLog/
- ┣ 📜 app.py              # Streamlit 메인 실행 파일
- ┣ 📜 model.py            # 질병 분류/군집 모델 정의
- ┣ 📜 data_preprocess.py  # KNHANES 데이터 전처리 모듈
- ┣ 📜 report.py           # 개인/조직 리포트 생성 모듈
- ┣ 📂 images/             # 아키텍처/결과 캡처 이미지
- ┣ 📜 requirements.txt    # 실행 환경 의존성
- ┣ 📜 README.md           # 프로젝트 설명 문서
+📂 Total_model/
+ ┣ 📜 cluster_service.ipynb      # 건강 유형 군집화 및 유사군 탐색
+ ┣ 📜 disease_prediction.ipynb   # HistGB 기반 질병 예측 및 위험도 분류
+ ┣ 📜 life_score_battle.ipynb    # 생활습관 점수 산출 및 유저 간 배틀 기능
+ ┣ 📜 goal.ipynb                 # 개인별 실천 항목 관리 및 목표 설정
+ ┗ 📜 Icon.ipynb                 # 유형별 캐릭터/아이콘 시각화
 </pre>
 ***
