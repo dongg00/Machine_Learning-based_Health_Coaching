@@ -76,18 +76,17 @@
 
 | **건강 정보 등록/이력 확인** |
 |-----------------------------|
-| <img src="Images/건강정보_등록_및_이력_확인(old).png" width="500"/> |
+| <img src="Images/건강정보_등록_및_이력_확인(old).png" width="600"/> |
 
 ---
 
 ### 2. 나와 더 건강한 유형 비교하기
-> 동일 질병군 내에서 ‘나보다 조금 더 건강한 유사군’을 찾아 비교하고, 개선 가이드를 제공합니다.  
-> **사용 기술:** scikit-learn (Clustering, StandardScaler), imbalanced-learn (SMOTE),  
-> Streamlit 시각화, matplotlib 기반 차트 렌더링
+- 건강관리 유형을 **ANOVA F-test**로 주요 특징을 선별하고, **코사인 유사도 + KMeans 군집화**를 통해 유형을 분류 
+
 
 | **유사군 비교 화면** |
 |---------------------|
-| <img src="Images/나와_더_건강한_유형_비교하기(old).png" width="500"/> |
+| <img src="Images/나와_더_건강한_유형_비교하기(old).png" width="600"/> |
 ***
 
 ## 핵심 기여
