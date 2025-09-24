@@ -1,0 +1,48 @@
+# Python 기본
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# 환경 설정 파일
+.env
+*.env
+*.ini
+*.log
+
+# Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# 파이썬 가상환경
+venv/
+.venv/
+env/
+ENV/
+
+# VSCode 설정파일
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# 대용량 데이터 파일 (CSV, Excel, etc)
+*.csv
+*.xls
+*.xlsx
+*.h5
+*.zip
+
+# 기타 임시 파일
+*.bak
+*.tmp
+
+*.sas7bdat
+*.pkl

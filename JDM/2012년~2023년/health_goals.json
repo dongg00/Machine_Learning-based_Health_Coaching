@@ -1,0 +1,22 @@
+{
+    "음주": {
+        "target": 0.46,
+        "direction": "reduce",
+        "diff": 5.11
+    },
+    "흡연": {
+        "target": 0.33,
+        "direction": "reduce",
+        "diff": 3.36
+    },
+    "걷기": {
+        "target": 7.0,
+        "direction": "optimal",
+        "diff": 0.71
+    },
+    "아침식사": {
+        "target": 7.0,
+        "direction": "optimal",
+        "diff": 1.16
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "obesity": "Normal",
+    "hypertension": "Normal",
+    "diabetes": "Diabetes",
+    "cluster": 0,
+    "cluster_description": "운동을 자주 하지만 허리둘레가 가장 크고 신장 기능 지표(크레아티닌, 소변 크레아티닌)와 LDL 콜레스테롤이 높은 특징을 보입니다. 흡연과 외식 빈도는 가장 낮고 수면 시간이 긴 등 비교적 건강한 생활 습관을 일부 가졌지만, 체형 및 일부 건강 지표는 좋지 않습니다."
+}
