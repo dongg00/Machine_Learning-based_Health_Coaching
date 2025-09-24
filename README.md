@@ -1,7 +1,7 @@
 # 피지컬:로그 (Physical:Log) – 유사군 비교 기반 점진 코칭 & 게이미피케이션 헬스케어 플랫폼  
 
 <p align="center">
-  <img src="images/physical_log_logo.png" alt="Physical:Log Banner" width="150"/>
+  <img src="images/찐막_로고.png" alt="Physical:Log Banner" width="150"/>
 </p>
 
 **피지컬:로그(Physical:Log)** 는 건강에 관심은 있지만 실천율이 낮은 사용자를 위해  
