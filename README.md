@@ -13,14 +13,6 @@
 
 | 구분          | 사용 기술 |
 |---------------|-----------|
-| **언어**       | Python |
-| **데이터 처리/분석** | pandas, numpy |
-| **머신러닝/모델링** | scikit-learn (Classification/Clustering, HistGradientBoostingClassifier), imbalanced-learn (SMOTE) |
-| **데이터베이스** | MariaDB (PyMySQL 연동) |
-| **시각화/리포트** | matplotlib|
-
-| 구분          | 사용 기술 |
-|---------------|-----------|
 | 언어          | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | 데이터 처리/분석 | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white) |
 | 머신러닝/모델링 | ![scikit-learn](https://img.shields.io/badge/scikit--learn-FF6F00?style=flat&logo=scikitlearn&logoColor=white) ![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-FF6600?style=flat) ![Model](https://img.shields.io/badge/Model-HistGradientBoosting-orange) ![Model](https://img.shields.io/badge/Model-Clustering-blueviolet) |
