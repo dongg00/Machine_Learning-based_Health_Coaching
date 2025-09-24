@@ -4,20 +4,22 @@
   <img src="Images/찐막_로고.png" alt="Physical:Log Banner" width="150"/>
 </p>
 
-**피지컬:로그(Physical:Log)** 는 건강에 관심은 있지만 실천율이 낮은 사용자를 위해  
+**피지컬:로그(Physical:Log)** 는 건강에 관심은 있지만 행동 실천율이 낮은 사용자를 위해  
 **유사군 비교 코칭**, **건강 점수화**, **게이미피케이션 보상**을 활용하여  
 지속 가능한 건강 행동 변화를 유도하는 **디지털 헬스케어 솔루션**입니다.  
 ***
 
 ## 기술 스택
 
-| 구분       | 사용 기술 |
-|-----------|-----------|
-| 언어       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 데이터/모델 | Scikit-learn, TensorFlow Lite, Pandas, Numpy |
-| AI/분석   | Classification, Clustering, Risk Prediction |
-| 시각화     | Matplotlib, Seaborn, Streamlit |
-| 프레임워크/플랫폼 | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| 구분          | 사용 기술 |
+|---------------|-----------|
+| **언어**       | Python |
+| **데이터 처리** | pandas, numpy, json, pickle, joblib, os, random |
+| **시각화**     | matplotlib |
+| **데이터베이스** | MariaDB + PyMySQL |
+| **머신러닝/분석** | scikit-learn (StandardScaler, train_test_split, GridSearchCV, HistGradientBoostingClassifier, CalibratedClassifierCV, classification_report 등) |
+| **클래스 불균형 처리** | imbalanced-learn (SMOTE) |
+| **기타 유틸**   | platform, signal, math |
 ***
 
 ## 시스템 아키텍처
