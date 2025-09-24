@@ -14,12 +14,19 @@
 | 구분          | 사용 기술 |
 |---------------|-----------|
 | **언어**       | Python |
-| **데이터 처리** | pandas, numpy, json, pickle, joblib, os, random |
-| **시각화**     | matplotlib |
-| **데이터베이스** | MariaDB + PyMySQL |
-| **머신러닝/분석** | scikit-learn (StandardScaler, train_test_split, GridSearchCV, HistGradientBoostingClassifier, CalibratedClassifierCV, classification_report 등) |
-| **클래스 불균형 처리** | imbalanced-learn (SMOTE) |
-| **기타 유틸**   | platform, signal, math |
+| **데이터 처리/분석** | pandas, numpy |
+| **머신러닝/모델링** | scikit-learn (Classification/Clustering, HistGradientBoostingClassifier), imbalanced-learn (SMOTE) |
+| **데이터베이스** | MariaDB (PyMySQL 연동) |
+| **시각화/리포트** | matplotlib|
+
+| 구분          | 사용 기술 |
+|---------------|-----------|
+| 언어          | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 데이터 처리/분석 | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white) |
+| 머신러닝/모델링 | ![scikit-learn](https://img.shields.io/badge/scikit--learn-FF6F00?style=flat&logo=scikitlearn&logoColor=white) ![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-FF6600?style=flat) ![Model](https://img.shields.io/badge/Model-HistGradientBoosting-orange) ![Model](https://img.shields.io/badge/Model-Clustering-blueviolet) |
+| 데이터베이스   | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![PyMySQL](https://img.shields.io/badge/PyMySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| 시각화/리포트  | ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+
 ***
 
 ## 시스템 아키텍처
