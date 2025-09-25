@@ -101,7 +101,7 @@
 
 ## 핵심 기여
 - **데이터 전처리**: 의학적 가이드라인 기반 결측치/이상치 처리
-- **모델 개발**: **머신러닝(HistGradientBoostingClassifier)** 기반 질환 예측, **KMeans** 기반 건강 유형 군집화 
+- **모델 개발**: 머신러닝(HistGradientBoostingClassifier) 기반 질환 예측, KMeans 기반 건강 유형 군집화 
 - **모델 성능 개선**: 데이터 불균형 보정 및 Feature Selection **(AUC 0.91 달성)**
 - **건강 점수화 알고리즘 구현**: 질병 예측 결과·생활습관 점수·실천율을 통합한 개인 맞춤형 지표 설계
 ***
